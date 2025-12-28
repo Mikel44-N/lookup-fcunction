@@ -1,4 +1,5 @@
 # Formulas and Functions Projects
+# A collection of formulas and function projects
 This repository showcases a collection of Excel projects demonstrating logical operators, conditional formulas, text manipulation, array formulas, date & time functions, data validation, SUMIF/SUMIFS/COUNTIFS, and conditional formatting. Each project includes a clean, structured dataset and highlights practical applications for data analysis, reporting, and automation.
 
 1. Logical Operators & Conditional Analysis
